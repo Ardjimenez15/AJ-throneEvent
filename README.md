@@ -1,6 +1,6 @@
 # AJ-throneEvent
 
-# ⚔️ La Guerra por el Trono del Estado - Evento Masivo en LigadoresRP
+# ⚔️ La Guerra por el Trono del Estado - Evento en LigadoresRP
 
 ![Banner del Evento](https://via.placeholder.com/1200x400.png?text=La+Guerra+por+el+Trono+del+Estado)
 
